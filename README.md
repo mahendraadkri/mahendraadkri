@@ -6,11 +6,20 @@
 </p>
 
 ---
-<h1>🛠️ Tech Stack</h1>
-Backend: Laravel, PHP, MySQL
-Frontend: Tailwind CSS, HTML, JavaScript
-Tools: VS Code, Git, GitHub, Postman, cPanel
-Other: API Integration, Authentication, CRUD Systems
+<h2>🛠️ Tech Stack</h2>
+
+**🧩 Backend**  
+Laravel • PHP • MySQL  
+
+**🎨 Frontend**  
+Tailwind CSS • HTML • JavaScript  
+
+**🛠 Tools**  
+VS Code • Git • GitHub • Postman • cPanel  
+
+**⚙️ Other**  
+API Integration • Authentication • CRUD Systems  
+
 
 ## 💼 Experience
 
