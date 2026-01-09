@@ -6,11 +6,11 @@
 </p>
 
 ---
-
-## 🎯 Objective
-Laravel Developer with hands-on experience in building scalable and efficient web applications. Passionate about using Laravel and PHP to solve real-world problems and contribute to impactful projects.
-
----
+🛠️ Tech Stack
+Backend: Laravel, PHP, MySQL
+Frontend: Tailwind CSS, HTML, JavaScript
+Tools: VS Code, Git, GitHub, Postman, cPanel
+Other: API Integration, Authentication, CRUD Systems
 
 ## 💼 Experience
 
@@ -46,11 +46,6 @@ Shining English Secondary School
 - Tailwind CSS
 - PHP, Laravel
 - MySQL
-
-**Soft Skills**
-- Problem-solving
-- Communication
-- Team Collaboration
 
 ---
 
