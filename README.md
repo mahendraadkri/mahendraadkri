@@ -53,6 +53,6 @@ Shining English Secondary School
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: mahendrachhetri500@gmail.com
-- 💼 LinkedIn: (add your link)
-- 🌐 Portfolio: (add your link)
+- 📧 Email: <a href="mailto:mahendrachhetri500@gmail.com">mahendrachhetri500@gmail.com</a>
+- 💼 LinkedIn: https://www.linkedin.com/in/mahendra-adhikari-a74839256/
+- 🌐 Portfolio: https://www.mahendradhikari.com.np/
