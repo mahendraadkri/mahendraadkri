@@ -16,15 +16,9 @@ Other: API Integration, Authentication, CRUD Systems
 
 ### Laravel Developer — Nexis  
 **Sep 2024 – Jun 2025**
-- Developed and maintained web applications using **Laravel & PHP**
-- Optimized database queries and improved application performance
-- Collaborated with team members to build scalable systems
 
 ### Intern — Federation of Computer Association Nepal (Chitwan)  
 **Dec 2023 – May 2024**
-- Built a **Bulk SMS Service Portal**
-- Assisted in database management and technical support
-- Worked on frontend & backend using PHP and Laravel
 
 ---
 
