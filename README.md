@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mahendra Adhikari</h1>
+<h3 align="center">PHP / Laravel Developer</h3>
 
-<!--
-**mahendraadkri/mahendraadkri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+📞 9865024683 • ✉️ mahendrachhetri500@gmail.com
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objective
+Laravel Developer with hands-on experience in building scalable and efficient web applications. Passionate about using Laravel and PHP to solve real-world problems and contribute to impactful projects.
+
+---
+
+## 💼 Experience
+
+### Laravel Developer — Nexis  
+**Sep 2024 – Jun 2025**
+- Developed and maintained web applications using **Laravel & PHP**
+- Optimized database queries and improved application performance
+- Collaborated with team members to build scalable systems
+
+### Intern — Federation of Computer Association Nepal (Chitwan)  
+**Dec 2023 – May 2024**
+- Built a **Bulk SMS Service Portal**
+- Assisted in database management and technical support
+- Worked on frontend & backend using PHP and Laravel
+
+---
+
+## 🎓 Education
+
+**🎓(BCA) Graduated**  
+
+
+**+2 Science**  
+Shining English Secondary School  
+2017 – 2019
+
+---
+
+## 🛠 Skills
+
+**Technical**
+- HTML, CSS, JavaScript, React
+- Tailwind CSS
+- PHP, Laravel
+- MySQL
+
+**Soft Skills**
+- Problem-solving
+- Communication
+- Team Collaboration
+
+---
+
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: mahendrachhetri500@gmail.com
+- 💼 LinkedIn: (add your link)
+- 🌐 Portfolio: (add your link)
