@@ -6,7 +6,7 @@
 </p>
 
 ---
-🛠️ Tech Stack
+<h1>🛠️ Tech Stack</h1>
 Backend: Laravel, PHP, MySQL
 Frontend: Tailwind CSS, HTML, JavaScript
 Tools: VS Code, Git, GitHub, Postman, cPanel
