@@ -31,7 +31,7 @@ API Integration • Authentication • CRUD Systems
 
 ---
 
-## 🎓 Education
+## 🎓 Education ##
 
 **🎓(BCA) Graduated**  
 
