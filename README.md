@@ -10,7 +10,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I am a passionate <strong>PHP / Laravel Developer</strong> with a solid foundation in backend development and modern frontend technologies.  
+I am a passionate <strong>PHP / Laravel Developer</strong> with a solid foundation in backend development and modern frontend technologies. 
 I enjoy building secure, scalable, and user-friendly web applications with clean code and efficient database design.
 </p>
 
@@ -26,7 +26,7 @@ I enjoy building secure, scalable, and user-friendly web applications with clean
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" />
 </p>
@@ -38,7 +38,7 @@ I enjoy building secure, scalable, and user-friendly web applications with clean
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/cpanel/cpanel-icon.svg" width="45" height="45" />
 </p>
 
 <hr/>
