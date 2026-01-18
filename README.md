@@ -38,7 +38,6 @@ I enjoy building secure, scalable, and user-friendly web applications with clean
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/cpanel/cpanel-icon.svg" width="45" height="45" />
 </p>
 
 <hr/>
