@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahendra Adhikari</h1>
-<h3 align="center">PHP / Laravel Developer</h3>
+<h3 align="center">Full Stack Laravel Developer | Tech Enthusiast</h3>
 
 <p align="center">
 📞 9865024683 • ✉️ mahendrachhetri500@gmail.com
