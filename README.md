@@ -2,62 +2,66 @@
 <h3 align="center">PHP / Laravel Developer</h3>
 
 <p align="center">
-📞 9865024683 • ✉️ mahendrachhetri500@gmail.com  
+📞 9865024683 • ✉️ mahendrachhetri500@gmail.com
 </p>
 
----
+<hr/>
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-I am a passionate **PHP / Laravel Developer** with a strong foundation in backend development and modern frontend tools.  
+<p>
+I am a passionate <strong>PHP / Laravel Developer</strong> with a solid foundation in backend development and modern frontend technologies.  
 I enjoy building secure, scalable, and user-friendly web applications with clean code and efficient database design.
+</p>
 
----
+<hr/>
 
-## 💻 Languages & Tools
+<h2>💻 Languages & Tools</h2>
 
-### 🧩 Programming Languages
-- PHP  
-- JavaScript  
-- HTML  
-- CSS  
+<h3>🧩 Programming Languages & Frameworks</h3>
 
-### ⚙️ Frameworks & Libraries
-- Laravel  
-- Tailwind CSS  
-- React (Basic)  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" />
+</p>
 
-### 🗄️ Databases
-- MySQL  
+<h3>🛠️ Tools & Platforms</h3>
 
-### 🛠️ Tools & Platforms
-- VS Code  
-- Git & GitHub  
-- Postman  
-- cPanel  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" />
+</p>
 
-### 🔧 Core Capabilities
-- REST API Integration  
-- Authentication & Authorization  
-- CRUD Systems  
-- Backend Logic & Database Design  
+<hr/>
 
----
+<h2>🎓 Education</h2>
 
-## 🎓 Education
+<p>
+<strong>Bachelor in Computer Application (BCA)</strong><br/>
+Graduated
+</p>
 
-**🎓 Bachelor in Computer Application (BCA)**  
-*Graduated*
-
-**➕2 Science**  
-Shining English Secondary School  
+<p>
+<strong>+2 Science</strong><br/>
+Shining English Secondary School<br/>
 2017 – 2019
+</p>
 
----
+<hr/>
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
-- 📧 Email: <a href="mailto:mahendrachhetri500@gmail.com">mahendrachhetri500@gmail.com</a>  
-- 💼 LinkedIn: https://www.linkedin.com/in/mahendra-adhikari-a74839256/  
-- 🌐 Portfolio: https://www.mahendradhikari.com.np/
-
+<p>
+📧 Email: <a href="mailto:mahendrachhetri500@gmail.com">mahendrachhetri500@gmail.com</a><br/>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/mahendra-adhikari-a74839256/">View Profile</a><br/>
+🌐 Portfolio: <a href="https://www.mahendradhikari.com.np/">mahendradhikari.com.np</a>
+</p>
