@@ -10,8 +10,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I am a passionate <strong>PHP / Laravel Developer</strong> with a solid foundation in backend development and modern frontend technologies. 
-I enjoy building secure, scalable, and user-friendly web applications with clean code and efficient database design.
+I’m a passionate Full Stack Laravel Developer who enjoys building clean, secure, and user-friendly web applications. I love learning new technologies and turning ideas into reliable digital solutions.
 </p>
 
 <hr/>
