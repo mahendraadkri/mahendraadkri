@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahendra Adhikari</h1>
-<h3 align="center">Full Stack Laravel Developer | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Laravel Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-📞 9865024683 • ✉️ mahendrachhetri500@gmail.com
+📍 Nepal • 📞 9865024683 • ✉️ mahendrachhetri500@gmail.com
 </p>
 
 <hr/>
@@ -10,8 +10,9 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I’m a passionate Full Stack Laravel Developer who enjoys building clean, secure, and user-friendly web applications.
-I love learning new technologies and turning ideas into reliable digital solutions.
+I am a dedicated <strong>Full Stack Laravel Developer</strong> with a strong passion for building modern, scalable, and secure web applications.
+I enjoy solving real-world problems through clean code, efficient backend logic, and user-friendly frontend design.
+I’m always eager to learn new technologies and improve my development skills.
 </p>
 
 <hr/>
@@ -25,12 +26,20 @@ I love learning new technologies and turning ideas into reliable digital solutio
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" />
   </a>
 
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45" height="45" />
+  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
   </a>
 
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" />
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" />
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -45,16 +54,8 @@ I love learning new technologies and turning ideas into reliable digital solutio
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" />
   </a>
 
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45" height="45" />
-  </a>
-
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" />
   </a>
 
   <a href="https://www.mysql.com/" target="_blank">
@@ -80,6 +81,26 @@ I love learning new technologies and turning ideas into reliable digital solutio
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" />
   </a>
+
+  <a href="https://www.apachefriends.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45" height="45" />
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" />
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" />
+  </a>
+
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="45" height="45" />
+  </a>
+
+  <a href="https://getcomposer.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" width="45" height="45" />
+  </a>
 </p>
 
 <hr/>
@@ -88,7 +109,7 @@ I love learning new technologies and turning ideas into reliable digital solutio
 
 <p>
 <strong>Bachelor in Computer Application (BCA)</strong><br/>
-Graduated
+Completed
 </p>
 
 <p>
@@ -102,15 +123,15 @@ Shining English Secondary School<br/>
 <h2>🌐 Connect With Me</h2>
 
 <p>
-📧 Email:
+📧 <strong>Email:</strong>
 <a href="mailto:mahendrachhetri500@gmail.com">mahendrachhetri500@gmail.com</a><br/>
 
-💼 LinkedIn:
+💼 <strong>LinkedIn:</strong>
 <a href="https://www.linkedin.com/in/mahendra-adhikari-a74839256/" target="_blank">
 View Profile
 </a><br/>
 
-🌐 Portfolio:
+🌐 <strong>Portfolio:</strong>
 <a href="https://www.mahendradhikari.com.np/" target="_blank">
 mahendradhikari.com.np
 </a>
