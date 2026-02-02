@@ -10,9 +10,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I am a dedicated <strong>Full Stack Laravel Developer</strong> with a strong passion for building modern, scalable, and secure web applications.
-I enjoy solving real-world problems through clean code, efficient backend logic, and user-friendly frontend design.
-I’m always eager to learn new technologies and improve my development skills.
+I’m a Full Stack Laravel Developer focused on building secure, scalable, and high-performance web applications. I enjoy turning ideas into clean code and delivering user-friendly digital experiences.
 </p>
 
 <hr/>
