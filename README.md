@@ -57,7 +57,7 @@ I’m a Full Stack Laravel Developer focused on building secure, scalable, and h
 </tr>
 </table>
 
-<br/><br/><br/><br/><br/><br/>
+<div style="clear: both;"></div>
 
 <h3>🛠️ Tools & Platforms</h3>
 
