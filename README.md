@@ -19,7 +19,7 @@ I’m a Full Stack Laravel Developer focused on building secure, scalable, and h
 
 <h3>🧩 Programming Languages & Frameworks</h3>
 
-<table align="left">
+<table>
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/><br>PHP
@@ -61,7 +61,7 @@ I’m a Full Stack Laravel Developer focused on building secure, scalable, and h
 
 <h3>🛠️ Tools & Platforms</h3>
 
-<table align="left">
+<table>
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/><br>VS Code
@@ -97,7 +97,6 @@ I’m a Full Stack Laravel Developer focused on building secure, scalable, and h
 </tr>
 </table>
 
-<br/><br/><br/><br/><br/><br/>
 
 <hr/>
 
