@@ -19,87 +19,85 @@ I’m a Full Stack Laravel Developer focused on building secure, scalable, and h
 
 <h3>🧩 Programming Languages & Frameworks</h3>
 
-<p align="left">
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" />
-  </a>
+<table align="left">
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/><br>PHP
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45"/><br>Laravel
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/><br>JavaScript
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/><br>Node.js
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br>React
+</td>
+</tr>
 
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45" height="45" />
-  </a>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/><br>HTML
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/><br>CSS
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/><br>Bootstrap
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/><br>Tailwind
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/><br>MySQL
+</td>
+</tr>
+</table>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" />
-  </a>
-</p>
+<br/><br/><br/><br/><br/><br/>
 
 <h3>🛠️ Tools & Platforms</h3>
 
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" />
-  </a>
+<table align="left">
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/><br>VS Code
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br>Git
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/><br>GitHub
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/><br>Postman
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45"/><br>Apache
+</td>
+</tr>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" />
-  </a>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br>Docker
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/><br>Linux
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="45"/><br>NPM
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" width="45"/><br>Composer
+</td>
+<td></td>
+</tr>
+</table>
 
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://www.apachefriends.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="45" height="45" />
-  </a>
-
-  <a href="https://getcomposer.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" width="45" height="45" />
-  </a>
-</p>
+<br/><br/><br/><br/><br/><br/>
 
 <hr/>
 
