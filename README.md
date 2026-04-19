@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mahendra Adhikari</h1>
-
 <h3 align="center">Full Stack Laravel Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -20,7 +19,7 @@ I’m a Full Stack Laravel Developer focused on building secure, scalable, and h
 
 <h3>🧩 Programming Languages & Frameworks</h3>
 
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <a href="https://www.php.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" />
   </a>
@@ -64,7 +63,7 @@ I’m a Full Stack Laravel Developer focused on building secure, scalable, and h
 
 <h3>🛠️ Tools & Platforms</h3>
 
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" />
   </a>
